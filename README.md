@@ -9,3 +9,6 @@ Extract the archives
 Run the script, it should work automatically
 
 Now you have ISOs that you can load in XEMU.
+
+
+Linux version might come eventually
